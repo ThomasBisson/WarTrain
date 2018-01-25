@@ -7,6 +7,7 @@ How to run the game :
     -Clone it
     -Look into the directory Salty_Corp_Data and find the file sharedassets1.assets.rar
     -Copie the file inside to the directory Salty_Corp_Data
+    -Delete sharedassets1.assets.rar
     -Run the Salty_Corp.exe file
     -Enjoy our game ! :)
     
