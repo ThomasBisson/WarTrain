@@ -9,3 +9,5 @@ How to run the game :
     -Copie the file inside to the directory Salty_Corp_Data
     -Run the Salty_Corp.exe file
     -Enjoy our game ! :)
+    
+PS : For now you must have unity or mono to play
