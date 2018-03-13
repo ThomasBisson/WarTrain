@@ -4,11 +4,15 @@ It's a 3D game where you embody a spy during WW2 and your goal is to stop a trai
 I can't import all the project because it's too big for GitHub but you can play the game if you want.
 
 How to run the game :
+
     -Clone it
-    -Look into the directory Salty_Corp_Data and find the file sharedassets1.assets.rar
-    -Copie the file inside to the directory Salty_Corp_Data
-    -Delete sharedassets1.assets.rar
-    -Run the Salty_Corp.exe file
-    -Enjoy our game ! :)
     
-PS : For now you must have unity or mono to play
+    -Look into the directory Salty_Corp_Data and find the file sharedassets1.assets.rar
+    
+    -Copie the file inside to the directory Salty_Corp_Data
+    
+    -Delete sharedassets1.assets.rar
+    
+    -Run the Salty_Corp.exe file
+    
+    -Enjoy our game ! :)
