@@ -34,7 +34,8 @@
 #*.unitypackage
 
 !Salty_Corp.exe
-!UnityPlayer.dll
 !Salty_Corp_Data
 !mono.dll
 !MonoPosixHelper.dll
+!UnityPlayer.dll
+!*.dll
